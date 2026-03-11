@@ -172,13 +172,18 @@ Interpretation:
 **Random Forest Regressor**
 
 Performance Metrics:
+
 MAE: $2,188,736
+
 MSE: 8.45e+12
+
 R² Score: 0.94
 
 Best Features:
 num__Area
+
 cat__Location_City Center
+
 cat__Location_Rural
 
 Random Forest achieved the highest R² score and demonstrated strong predictive performance.
@@ -210,7 +215,7 @@ This aligns with real-world housing market trends.
 The model performance was visualized using a **Predicted vs Actual Price scatter plot**.
 
 File generated:
-predictions_vs_actual.png
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/1676050c-c6dd-4906-bace-a2436cba9197" />
 
 Interpretation:
 
