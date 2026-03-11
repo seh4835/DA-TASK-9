@@ -91,8 +91,11 @@ Best performing model:
 Random Forest Regressor
 
 Performance metrics:
+
 MAE: $2,188,736
+
 MSE: 8.45e+12
+
 R² Score: 0.94
 
 Important features influencing house price:
@@ -108,6 +111,7 @@ This plot helps assess how closely the model predictions match real values.
 
 Output file:
 predictions_vs_actual.png
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/1676050c-c6dd-4906-bace-a2436cba9197" />
 
 Points near the diagonal line represent accurate predictions.
 
